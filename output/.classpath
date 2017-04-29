@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="C:/Documents and Settings/AKosarev/workspace/CommonLibs/test_log_lib.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="../"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/jms.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/tibjms.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/tibjmsufo.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/tibcrypt.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/tibjmsadmin.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/slf4j-simple-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/tibco/ems/5.1/lib/slf4j-api-1.4.2.jar"/>
+	<classpathentry kind="output" path="output"/>
+</classpath>
